@@ -10,8 +10,8 @@ namespace exam
         public Form1()
         {
             InitializeComponent();
-            truesound= new SoundPlayer(@"C:\Users\LENOVO\Desktop\software\C#\Correct.wav");
-            falsesound = new SoundPlayer(@"C:\Users\LENOVO\Desktop\software\C#\Wrong.wav");
+            truesound= new SoundPlayer("Correct.wav");
+            falsesound = new SoundPlayer("Wrong.wav");
         }
 
         int questno=0 , corno=0 , wrono=0 ;
