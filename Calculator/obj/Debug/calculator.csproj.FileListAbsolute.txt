@@ -1,0 +1,22 @@
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\WindowsFormsApp1\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\WindowsFormsApp1\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\WindowsFormsApp1\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\WindowsFormsApp1\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\Yeni klasör (2)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Desktop\software\C#\Calculator\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LENOVO\Desktop\software\C#\Calculator\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\software\C#\Calculator\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Desktop\software\C#\Calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\software\C#\Calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\software\C#\Calculator\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\LENOVO\Desktop\software\C#\Calculator\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\software\C#\Calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\software\C#\Calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\software\C#\Calculator\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\software\C#\Calculator\obj\Debug\WindowsFormsApp1.pdb
